@@ -71,7 +71,7 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: Active Platform
+    id: Active_Platform
     attributes:
       label: What is your team's Active Platform?
       multiple: true
