@@ -1,6 +1,6 @@
 name: Semester Tract
 description: File a bug report
-title: "[Semester]: "
+title: "[Semester] "
 labels: ["semetract", "semester"]
 assignees:
   - habatchii
