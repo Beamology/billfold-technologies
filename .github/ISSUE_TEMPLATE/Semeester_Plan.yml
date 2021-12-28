@@ -18,7 +18,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: what-happened
+    id: proposal 
     attributes:
       label: Semester Tract Type
       description: Proposition/Ammend/Mandate ?
