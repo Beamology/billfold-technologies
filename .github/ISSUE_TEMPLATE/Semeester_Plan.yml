@@ -32,41 +32,41 @@ body:
       label: Semester Tract Data
       description: What tracts are you installing?
       options:
-        - SemeTract: Elections 
-        - SemeTract: Emergency & Disaster 
-        - SemeTract: Engineering 
-        - SemeTract: Ethics 
-        - SemeTract: Ethinic Bylaws; Urbanization 
-        - SemeTract: Family Counsel (Homestead Management) 
-        - SemeTract: Farming 
-        - SemeTract: Farming; Agriculture 
-        - SemeTract: Finance; Business 
-        - SemeTract: Finance; Personal 
-        - SemeTract: Financial Assistance 
-        - SemeTract: Financial Assistance; Emergency 
-        - SemeTract: Health Services; SHI/IHT 
-        - SemeTract: Hydrolics, Electric & Lumanance(HEL) 
-        - SemeTract: Industrial; TICS 
-        - SemeTract: Inter-City Operations 
-        - SemeTract: Inter-State Operations 
-        - SemeTract: Inter-Government Operations 
-        - SemeTract: Juvenile Services;(TBA) 
-        - SemeTract: Labor (see TLC) 
-        - SemeTract: Law; Public Defense 
-        - SemeTract: Law; Enforcement 
-        - SemeTract: Meterological & Telicalogical Systems 
-        - SemeTract: Model Recognition; Quality Utilization 
-        - SemeTract: Planned Parenting 
-        - SemeTract: Population Control (TERO) 
-        - SemeTract: Press & Media 
-        - SemeTract: Press & Media; Pro Rata Coverage 
-        - SemeTract: Probate & Concessions; Forfietures 
-        - SemeTract: Technology & Research 
-        - SemeTract: Trade, Labor & Commerce (TLC) 
-        - SemeTract: Traffic & Road Safety 
-        - SemeTract: Transportation 
-        - SemeTract: Transportation (Airline Regulation) 
-        - SemeTract: Undercare Provision 
+        - SemeTract: Elections
+        - SemeTract: Emergency & Disaster
+        - SemeTract: Engineering
+        - SemeTract: Ethics
+        - SemeTract: Ethinic Bylaws; Urbanization
+        - SemeTract: Family Counsel (Homestead Management)
+        - SemeTract: Farming
+        - SemeTract: Farming; Agriculture
+        - SemeTract: Finance; Business
+        - SemeTract: Finance; Personal
+        - SemeTract: Financial Assistance
+        - SemeTract: Financial Assistance; Emergency
+        - SemeTract: Health Services; SHI/IHT
+        - SemeTract: Hydrolics, Electric & Lumanance(HEL)
+        - SemeTract: Industrial; TICS
+        - SemeTract: Inter-City Operations
+        - SemeTract: Inter-State Operations
+        - SemeTract: Inter-Government Operations
+        - SemeTract: Juvenile Services;(TBA)
+        - SemeTract: Labor (see TLC)
+        - SemeTract: Law; Public Defense
+        - SemeTract: Law; Enforcement
+        - SemeTract: Meterological & Telicalogical Systems
+        - SemeTract: Model Recognition; Quality Utilization
+        - SemeTract: Planned Parenting
+        - SemeTract: Population Control (TERO)
+        - SemeTract: Press & Media
+        - SemeTract: Press & Media; Pro Rata Coverage
+        - SemeTract: Probate & Concessions; Forfietures
+        - SemeTract: Technology & Research
+        - SemeTract: Trade, Labor & Commerce (TLC)
+        - SemeTract: Traffic & Road Safety
+        - SemeTract: Transportation
+        - SemeTract: Transportation (Airline Regulation)
+        - SemeTract: Undercare Provision
         
     validations:
       required: true
