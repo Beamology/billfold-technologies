@@ -30,6 +30,7 @@ body:
     id: semetract
     attributes:
       label: Semester Tract Data
+      multiple: true
       description: What tracts are you installing?
       options:
         - SemeTract_Elections
@@ -74,7 +75,6 @@ body:
     id: Active_Platform
     attributes:
       label: What is your team's Active Platform?
-      multiple: true
       options:
         - Administrative 
         - Arbitrative 
