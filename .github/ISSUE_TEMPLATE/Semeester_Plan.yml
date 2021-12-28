@@ -37,36 +37,65 @@ body:
         - SemeTract_Engineering
         - SemeTract_Ethics
         - SemeTract_Ethinic Bylaws; Urbanization
-        - SemeTract: Family Counsel (Homestead Management)
-        - SemeTract: Farming
-        - SemeTract: Farming; Agriculture
-        - SemeTract: Finance; Business
-        - SemeTract: Finance; Personal
-        - SemeTract: Financial Assistance
-        - SemeTract: Financial Assistance; Emergency
-        - SemeTract: Health Services; SHI/IHT
-        - SemeTract: Hydrolics, Electric & Lumanance(HEL)
-        - SemeTract: Industrial; TICS
-        - SemeTract: Inter-City Operations
-        - SemeTract: Inter-State Operations
-        - SemeTract: Inter-Government Operations
-        - SemeTract: Juvenile Services;(TBA)
-        - SemeTract: Labor (see TLC)
-        - SemeTract: Law; Public Defense
-        - SemeTract: Law; Enforcement
-        - SemeTract: Meterological & Telicalogical Systems
-        - SemeTract: Model Recognition; Quality Utilization
-        - SemeTract: Planned Parenting
-        - SemeTract: Population Control (TERO)
-        - SemeTract: Press & Media
-        - SemeTract: Press & Media; Pro Rata Coverage
-        - SemeTract: Probate & Concessions; Forfietures
-        - SemeTract: Technology & Research
-        - SemeTract: Trade, Labor & Commerce (TLC)
-        - SemeTract: Traffic & Road Safety
-        - SemeTract: Transportation
-        - SemeTract: Transportation (Airline Regulation)
-        - SemeTract: Undercare Provision
+        - SemeTract_Family Counsel (Homestead Management) 
+
+        - SemeTract_Farming 
+
+        - SemeTract_Farming; Agriculture 
+
+        - SemeTract_Finance; Business 
+
+        - SemeTract_Finance; Personal 
+
+        - SemeTract_Financial Assistance 
+
+        - SemeTract_Financial Assistance; Emergency 
+
+        - SemeTract_Health Services; SHI/IHT 
+
+        - SemeTract_Hydrolics, Electric & Lumanance(HEL) 
+
+        - SemeTract_Industrial; TICS 
+
+        - SemeTract_Inter-City Operations 
+
+        - SemeTract_Inter-State Operations 
+
+        - SemeTract_Inter-Government Operations 
+
+        - SemeTract_Juvenile Services;(TBA) 
+
+        - SemeTract_Labor (see TLC) 
+
+        - SemeTract_Law; Public Defense 
+
+        - SemeTract_Law; Enforcement 
+
+        - SemeTract_Meterological & Telicalogical Systems 
+
+        - SemeTract_Model Recognition; Quality Utilization 
+
+        - SemeTract_Planned Parenting 
+
+        - SemeTract_Population Control (TERO) 
+
+        - SemeTract_Press & Media 
+
+        - SemeTract_Press & Media; Pro Rata Coverage 
+
+        - SemeTract_Probate & Concessions; Forfietures 
+
+        - SemeTract_Technology & Research 
+
+        - SemeTract_Trade, Labor & Commerce (TLC) 
+
+        - SemeTract_Traffic & Road Safety 
+
+        - SemeTract_Transportation 
+
+        - SemeTract_Transportation (Airline Regulation) 
+
+        - SemeTract_Undercare Provision 
         
     validations:
       required: true
