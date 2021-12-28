@@ -32,11 +32,11 @@ body:
       label: Semester Tract Data
       description: What tracts are you installing?
       options:
-        - SemeTract: Elections
-        - SemeTract: Emergency & Disaster
-        - SemeTract: Engineering
-        - SemeTract: Ethics
-        - SemeTract: Ethinic Bylaws; Urbanization
+        - SemeTract_Elections
+        - SemeTract_Emergency & Disaster
+        - SemeTract_Engineering
+        - SemeTract_Ethics
+        - SemeTract_Ethinic Bylaws; Urbanization
         - SemeTract: Family Counsel (Homestead Management)
         - SemeTract: Farming
         - SemeTract: Farming; Agriculture
