@@ -1,5 +1,5 @@
 name: Semester Tract
-description: File a bug report
+description: Record a billet for inclusion (semester installation).
 title: "[Semester] "
 labels: ["semetract", "semester"]
 assignees:
