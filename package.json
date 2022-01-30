@@ -1,0 +1,24 @@
+{
+  "name": "billfold-technologies",
+  "version": "1.0.0",
+  "description": "Billfold Technologies official deployment package version 1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test [-- <args>]"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Billfold-Technologies/Billfold-Technologies.git"
+  },
+  "keywords": [
+    "bft",
+    "billfold",
+    "billfoldtechnologies"
+  ],
+  "author": "billfold-technologies <mail@beamology.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Billfold-Technologies/Billfold-Technologies/issues"
+  },
+  "homepage": "https://github.com/Billfold-Technologies/Billfold-Technologies#readme"
+}

@@ -1,5 +1,6 @@
 name: Semester Tract
-description: Record a billet for inclusion (semester installation).
+<<<<< main
+description: Pluck a thesis topic from the air.
 title: "[Semester] "
 labels: ["semetract", "semester"]
 assignees:
